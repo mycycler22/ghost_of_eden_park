@@ -2,7 +2,10 @@
 
 GitHub repository for DSC 599: Senior Capstone
 
+Next Steps:
 
-<img width="990" height="1990" alt="image" src="https://github.com/user-attachments/assets/40d08b36-6478-482b-8a0f-12bce0e08a6a" />
+- Add home/away designation to data before merging with results data
+- Create elo rating with results data; group by season
+- Settle on what features to include in classification model
 
 
