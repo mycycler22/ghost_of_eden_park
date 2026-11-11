@@ -6,3 +6,5 @@ pygam
 rugbypy
 openpyxl
 bambi
+arviz
+scikit-learn
