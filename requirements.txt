@@ -11,3 +11,4 @@ scikit-learn
 pymer4
 rpy2
 great_tables
+polars
