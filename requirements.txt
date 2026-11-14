@@ -12,3 +12,5 @@ pymer4
 rpy2
 great_tables
 polars
+dataframe_image
+playwright
